@@ -1,0 +1,11 @@
+{
+  "name": "was/test",
+  "authors": [
+    {
+      "name": "waSRull waSRull",
+      "email": "waSRull@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
